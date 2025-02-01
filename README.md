@@ -23,3 +23,9 @@ YOLOv9____93.10%_____⚡ Fast_____Moderate_____Real-time logo detection
 YOLOv8____92.50%_____⚡ Fast______Moderate ___Live monitoring, video processing
 
 CNN-VGG19____94.20%___🐢Slow______🔥High_______Counterfeit detection, brand monitoring
+
+**📌 Future Work & Contributions**
+
+🚀 We aim to enhance real-time accuracy and optimize CNN models for better efficiency. Contributions are welcome!
+
+
