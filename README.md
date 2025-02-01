@@ -16,10 +16,10 @@ Logo detection plays a crucial role in brand monitoring, image retrieval, and co
 
 **📊 Comparative Results**
 
-Model	   Accuracy	   Speed(FPS)	 Robustness	    Best Use Case
+Model____Accuracy____Speed(FPS)___Robustness_____Best Use Case
 
-YOLOv9	  93.10%	⚡ Fast	        Moderate	Real-time logo detection
+YOLOv9____93.10%_____⚡ Fast_____Moderate_____Real-time logo detection
 
-YOLOv8	  92.50%	⚡ Fast	        Moderate	Live monitoring, video processing
+YOLOv8____92.50%_____⚡ Fast______Moderate ___Live monitoring, video processing
 
-CNN-VGG19	94.20%	🐢 Slow	🔥       High	    Counterfeit detection, brand monitoring
+CNN-VGG19____94.20%___🐢Slow______🔥High_______Counterfeit detection, brand monitoring
