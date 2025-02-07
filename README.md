@@ -1,4 +1,4 @@
-**🔍 Comparative Study on Logo Detection: YOLOv9, YOLOv8, and CNN-VGG19**
+# 🔍 Comparative Study on Logo Detection: YOLOv9, YOLOv8, and CNN-VGG19
 
 **🏆 Abstract**
 
