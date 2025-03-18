@@ -6,7 +6,7 @@ Logo detection plays a crucial role in brand monitoring, image retrieval, and co
 
 **📌 Key Highlights**
 
-✅ DOI: 10.1109/ICSCNA63714.2024.10864020.
+**✅ DOI: 10.1109/ICSCNA63714.2024.10864020.**
 
 ✅ YOLOv9 & YOLOv8: Best for real-time detection and high-speed applications.
 
